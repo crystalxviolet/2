@@ -1,0 +1,9 @@
+C:\Users\Gosza\Desktop\Kalkulator2\Kalkulator2\Kalkulator2\bin\Debug\Kalkulator2.exe.config
+C:\Users\Gosza\Desktop\Kalkulator2\Kalkulator2\Kalkulator2\bin\Debug\Kalkulator2.exe
+C:\Users\Gosza\Desktop\Kalkulator2\Kalkulator2\Kalkulator2\bin\Debug\Kalkulator2.pdb
+C:\Users\Gosza\Desktop\Kalkulator2\Kalkulator2\Kalkulator2\obj\Debug\Kalkulator2.csprojResolveAssemblyReference.cache
+C:\Users\Gosza\Desktop\Kalkulator2\Kalkulator2\Kalkulator2\obj\Debug\Kalkulator2.Properties.Resources.resources
+C:\Users\Gosza\Desktop\Kalkulator2\Kalkulator2\Kalkulator2\obj\Debug\Kalkulator2.csproj.GenerateResource.Cache
+C:\Users\Gosza\Desktop\Kalkulator2\Kalkulator2\Kalkulator2\obj\Debug\Kalkulator2.exe
+C:\Users\Gosza\Desktop\Kalkulator2\Kalkulator2\Kalkulator2\obj\Debug\Kalkulator2.pdb
+C:\Users\Gosza\Desktop\Kalkulator2\Kalkulator2\Kalkulator2\obj\Debug\Kalkulator2.Form1.resources
